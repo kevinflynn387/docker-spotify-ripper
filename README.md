@@ -1,5 +1,4 @@
-Dockerfile for spotify-ripper-ubuntu
-https://github.com/darrenwatt/spotify-ripper; originally from https://github.com/jrnewell/spotify-ripper
+Dockerfile for spotify-ripper-ubuntu originally from https://github.com/darrenwatt/docker-spotify-ripper
 
 Build from docker file
 
