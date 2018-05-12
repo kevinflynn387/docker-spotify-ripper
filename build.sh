@@ -1,0 +1,1 @@
+docker build --rm --no-cache -t kevinflynn387/docker-spotify-ripper-ubuntu .
