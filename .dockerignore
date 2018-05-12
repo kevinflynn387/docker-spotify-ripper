@@ -1,0 +1,9 @@
+# ignore file list for docker builds
+
+# Git files
+.git
+.gitignore
+
+# Information files
+LICENSE
+README.md
